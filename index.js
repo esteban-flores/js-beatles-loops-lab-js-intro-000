@@ -64,6 +64,6 @@ function johnLennonFacts(facts){
 //      difference between the input number and `15`.
 //    * Return the array with the strings `"I love the Beatles!"`.
 
-function iLoveTheBeatles(){
+function iLoveTheBeatles(number){
   return null;
 };
