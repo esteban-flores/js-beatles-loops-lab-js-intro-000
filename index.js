@@ -65,5 +65,9 @@ function johnLennonFacts(facts){
 //    * Return the array with the strings `"I love the Beatles!"`.
 
 function iLoveTheBeatles(number){
-  return null;
+  var array = [];
+
+  do{
+    
+  } while(number < 15);
 };
